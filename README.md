@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing useful programs with reallife implimentation and usage.
      A goal to excel in every stage of the life cycle of software development.
 - 🌱 I’m currently learning Web Designing, Web-development and coding languages like:-
-     Python, C, C++, Html, Css, JavaScript, Swift5 etc.
+     Python, C, C++, Html, Css, JavaScript, Swift5, Linux, DSA in Python etc.
 - 💞️ I’m looking to collaborate on repositories and projects
 - 📫 reach me at kamran1243434@gmail.com
 
