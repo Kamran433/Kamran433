@@ -1,4 +1,4 @@
-👋 ### Hi, I’m @Kamran433
+👋 Hi, I’m @Kamran433
 
 🚀 I'm an AI/ML Engineer passionate about building the next generation of intelligent systems. My work is focused on Machine Learning, Deep Learning, and the transformative potential of Generative AI.
 
